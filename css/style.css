@@ -29,8 +29,9 @@ nav>a>img {
 }
 
 .header_area .main-menu .navbar {
-    padding: 0.5rem 7rem 0.5rem 5rem;
-    background-color: rgb(180, 174, 174);
+    padding: 0.5rem 7rem 0.5rem 7rem;
+    background-color: rgb(221, 211, 211);
+    height: 60px;
 }
 
 .header_area .main-menu .nav-item .nav-link {
